@@ -11,3 +11,21 @@ HTML5: For the structure of the web pages.
 CSS3: To create the dark mode design and ensure responsive layout.
 JavaScript: For interactivity and animations.
 Three.js: To render and manage the 3D models.
+How to Use
+Clone this repository:
+
+bash
+copy code
+git clone https://github.com/yourusername/portfolio-website.git
+Navigate to the project directory:
+
+bash
+copy code
+cd portfolio-website
+Open index.html in your web browser to view the portfolio.
+
+Contribution
+If you want to contribute to this project, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+License
+This project is licensed under the MIT License.
